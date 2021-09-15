@@ -1,5 +1,7 @@
 # docker ros
 
+## sudo 
+    sudo usermod -a -G docker $USER
 
 ## Pulling ROS images
     docker pull ros
